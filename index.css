@@ -188,27 +188,29 @@ button {
   padding: 0;
   border: none;
   border-radius: 1000px;
-  box-shadow: 0 2px 5px #d4d4d4;
 }
 
 #try-it-button {
   padding: 4px 20px;
   background: white;
+  box-shadow: 0 3px 10px #d3e3e6;
 }
 
 #header-get-started-button {
   padding: 12px 64px;
   background: hsl(322, 100%, 66%);
+  box-shadow: 0 0 10px #d3e3e6;
 }
 
 .card {
   border-radius: 20px;
-  box-shadow: 0 0 10px #ddd;
+  box-shadow: 0 0 10px #eee;
 }
 
 #main-get-started-button {
   padding: 13px 60px;
   background: hsl(322, 100%, 66%);
+  box-shadow: 0 5px 10px #ddd;
 }
 
 #button-outer-container {
@@ -227,7 +229,7 @@ button {
   right: 0;
   left: 0;
   margin: 0 auto;
-  box-shadow: 0 0 10px #ddd;
+  box-shadow: 0 0 10px #eee;
   border-radius: 20px 20px 0 0;
 }
 
@@ -491,15 +493,15 @@ button {
   }
 
   #try-it-button {
-    padding: 15px 75px;
+    padding: 15px 60px;
   }
 
   #header-get-started-button {
-    padding: 20px 80px;
+    padding: 20px 70px;
   }
 
   #main-get-started-button {
-    padding: 25px 90px;
+    padding: 25px 100px;
   }
 
   /* Styling End */
